@@ -1,12 +1,5 @@
-# DADOS
+# 🚀 ROTEIRO PARA APRENDER ANÁLISE DE DADOS
 
-**Roteiro completo e progressivo** para você começar a aprender **Análise de Dados**, mesmo que esteja partindo do zero. Ele está dividido por **etapas** e inclui **habilidades, ferramentas e projetos práticos** para aplicar o que aprender. Ideal para autodidatas ou para quem quer montar um portfólio profissional.
-
----
-
-## 🚀 ROTEIRO PARA APRENDER ANÁLISE DE DADOS
-
----
 
 ### ✅ **ETAPA 1: Fundamentos da Análise de Dados**
 
@@ -14,10 +7,10 @@
 
 📚 O que estudar:
 
-* O que é análise de dados
-* Tipos de dados: estruturados x não estruturados
-* Estatística básica (média, mediana, desvio padrão, correlação)
-* Pensamento analítico e resolução de problemas
+* [O que é análise de dados](./etapa1/dados.md)
+* [Tipos de dados: estruturados x não estruturados](./etapa1/tipos.md)
+* [Estatística básica (média, mediana, desvio padrão, correlação)](./etapa1/estatistica.md)
+* [Pensamento analítico e resolução de problemas](./etapa1/pensamento.md)
 
 🛠️ Ferramentas:
 
